@@ -1,0 +1,9 @@
+Package: com.ethanrdoesmc.nospotlightshadows
+Name: NoSpotlightShadows
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: EthanRDoesMC
+Author: EthanRDoesMC
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
