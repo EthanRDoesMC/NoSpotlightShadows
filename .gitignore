@@ -38,6 +38,9 @@ Icon
 .Spotlight-V100
 .Trashes
 
+.theos
+/packages
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
